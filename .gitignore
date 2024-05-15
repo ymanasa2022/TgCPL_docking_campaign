@@ -1,2 +1,5 @@
 .DS_Store
 /docking_runs/archive
+/docking_runs/*/results
+/docking_runs/*/archive
+/docking_runs/*/results_old
