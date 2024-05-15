@@ -1,3 +1,6 @@
 archive/
 .DS_Store
 */working_standard/
+*/working/
+*/dockfiles/
+!/dockfiles/INDOCK
